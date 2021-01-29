@@ -1,3 +1,7 @@
+<?php
+$name="Ryan";
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
